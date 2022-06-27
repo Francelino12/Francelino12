@@ -2,8 +2,9 @@
 - 🔭 Trabalho atualmente na área de ti da prefeitura de Jacarézinho PR...
 - 🌱 Estou estudando Pentest Web,JS,HTML,CSS,PYTHON e TP...
 - 👨‍🎓 Estudante de Cybersecurity - Fatec Ourinhos ☠️...
-- 📖 Desenvolvimento Full stack - Programador BR
+- 📖 Estudent Developer
 - 👽 Estou lendo o Livro Pentest em aplicações web
+- Estudando Java e Oracle
 <div align="center">
   <a href="https://github.com/Francelino12">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Francelino12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
