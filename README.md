@@ -20,7 +20,7 @@
   <img align="center" alt="Francelino-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Francelino-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francelino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Francelino-photo" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/928852520477007872/936666048407687208/giphy.gif">
+   <img align="right" alt="Francelino-photo" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/928852520477007872/936666048407687208/giphy.gif">
 </div>
 </div> 
   <hr/>
