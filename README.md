@@ -3,9 +3,9 @@
 - 🌱 Estou estudando Pentest Web,JS,HTML,CSS,PYTHON,TYPESCRIPT,JAVA, ANGULAR...
 - 👨‍🎓 Estudante de Cybersecurity - Fatec Ourinhos 3/6 ☠️...
 - 👽 Livros lidos/lendo : 
-- 📖*introduçaõ ao Pentest*
-- 📖*Pentest em aplicações web*
-- 📖*Pentest em Redes sem fio* 
+- 📖 *introduçaõ ao Pentest*
+- 📖 *Pentest em aplicações web*
+- 📖 *Pentest em Redes sem fio* 
 - 📖 *Introdução a programação com Python* 
 - 📖 Cursando Atualmente: BootCamp Full stack developer Java/Angular DIO - Santander
 <div align="center">
