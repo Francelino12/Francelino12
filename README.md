@@ -7,7 +7,7 @@
 - 📖 *Pentest em aplicações web*
 - 📖 *Pentest em Redes sem fio* 
 - 📖 *Introdução a programação com Python* 
-- 📖 *Cursando Atualmente: BootCamp Full stack developer Java/Angular DIO - Santander*
+- 📖 *BootCamp Full stack developer Java/Angular DIO - Santander*
 - 📖 *Bootcamp Linux Experience - DIO*
 <div align="center">
   <a href="https://github.com/Francelino12">
