@@ -36,5 +36,3 @@
     
  
 </div>
-
-![Snake animation](https://github.com/Francelino12/Francelino12/blob/output/github-contribution-grid-snake.svg)
